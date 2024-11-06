@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "schedules",
+  "info": {
+    "singularName": "schedule",
+    "pluralName": "schedules",
+    "displayName": "Schedule"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "startTime": {
+      "type": "datetime"
+    },
+    "endTime": {
+      "type": "datetime"
+    }
+  }
+}
