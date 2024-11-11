@@ -12,10 +12,10 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-cloud": "5.2.0",
-    "@strapi/plugin-users-permissions": "5.2.0",
+    "@strapi/plugin-cloud": "5.3.0",
+    "@strapi/plugin-users-permissions": "5.3.0",
     "@strapi/provider-email-mailgun": "^5.2.0",
-    "@strapi/strapi": "5.2.0",
+    "@strapi/strapi": "5.3.0",
     "better-sqlite3": "^11.5.0",
     "dotenv": "^16.4.5",
     "fs-extra": "^10.0.0",
